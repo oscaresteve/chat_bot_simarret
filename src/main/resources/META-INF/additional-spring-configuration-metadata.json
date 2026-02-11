@@ -1,0 +1,9 @@
+{
+  "properties": [
+    {
+      "name": "simarret.bromista.api.url",
+      "type": "java.lang.String",
+      "description": "API del IES Simarro que cuenta chistes sobre el tema que le indiques"
+    }
+  ]
+}
