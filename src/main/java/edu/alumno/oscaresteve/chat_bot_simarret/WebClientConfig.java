@@ -14,4 +14,5 @@ public class WebClientConfig {
   public WebClient webClient() {
     return WebClient.builder().baseUrl(baseUrl).build();
   }
+
 }
